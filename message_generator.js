@@ -8,7 +8,8 @@ const randomMessages = [
     'Why are you here?', 
     'Ask yourself, what do i want today.',
     'Have you eaten enough?',
-    'You should ask your Doctor about your mental Health!'
+    'You should ask your Doctor about your mental Health!',
+    'I like you.',
 ];
 
 // Funciton that starts up after starting the program

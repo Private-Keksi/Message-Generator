@@ -8,6 +8,9 @@ To run the program, you need the following:
 After you have everything ready, write in your Terminal: "node message_generator.js"
 You should be in the correct Directory to start the program.
 
+git clone https://github.com/Private-Keksi/Message-Generator.git
+
+
 Have Fun
 
 ## by Private-Keksi
