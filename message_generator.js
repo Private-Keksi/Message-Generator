@@ -1,6 +1,6 @@
 // Message Generator 
 
-const readline = require('readline'); // um in Node eingaben zu machen.
+const readline = require('readline'); // to input in Node.
 
 const randomMessages = [
     'You didn\'t checked your Calander. Do it now.', 
@@ -11,7 +11,7 @@ const randomMessages = [
     'You should ask your Doctor about your mental Health!'
 ];
 
-// Funktion, die beim Start eine Eingabe abfragt
+// Funciton that starts up after starting the program
 function startProgram() {
     console.log('Welcome to Message Generator. Please follow the following step:');
     const rl = readline.createInterface({
